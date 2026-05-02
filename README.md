@@ -9,7 +9,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-00c853?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:saulo.menches@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-ff8008?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-ff8008?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/saulo_.menezes?igsh=MWlyZ252b3FkeTdwaQ%3D%3D&utm_source=qr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/saulo-menezes-6136a039a/)
 
 ##
@@ -40,9 +40,9 @@
    <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Saulomenches&rank_icon=github&show_icons=true&theme=transparent&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Saulomenches&layout=compact&theme=transparent&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saulomenches&theme=transparent"/>
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Saulomenches&rank_icon=github&show_icons=true&theme=maroongold&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Saulomenches&layout=compact&theme=maroongold&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saulomenches&theme=maroongold"/>
 </div>
 
 
