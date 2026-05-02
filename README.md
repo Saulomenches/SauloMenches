@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:7FECFF,100:9B5DE5&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:ff7e5f,100:feb47b&section=header"/>
 
 ``Desenvolvedor Front-end``
 
@@ -47,5 +47,5 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:7FECFF,100:9B5DE5&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:ff7e5f,100:feb47b&section=footer"/>
 
