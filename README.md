@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:00c6ff,100:0072ff&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:7FECFF,100:9B5DE5&section=header"/>
 
 ## 👨‍💻  Saulo Menezes
 
@@ -43,4 +43,8 @@
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Saulomenches&layout=compact&theme=transparent&count_private=true">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saulomenches&theme=transparent"/>
 </div>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:7FECFF,100:9B5DE5&section=footer"/>
 
